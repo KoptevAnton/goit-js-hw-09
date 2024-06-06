@@ -1,0 +1,14 @@
+.sl-overlay {
+  background-color: rgba(46, 47, 66, 0.8);
+}
+
+.sl-wrapper .sl-navigation button {
+  color: rgba(255, 255, 255, 1);
+}
+
+.sl-wrapper .sl-counter {
+  color: rgba(255, 255, 255, 1);
+}
+.sl-wrapper .sl-close {
+  color: rgba(255, 255, 255, 1);
+}
